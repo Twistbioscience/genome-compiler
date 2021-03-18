@@ -1,1 +1,1 @@
-# genome-compiler
+# Genome Compiler
