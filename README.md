@@ -1,3 +1,4 @@
+```
 ![Image] (https://github.com/Twistbioscience/genome-compiler/blob/develop/site/assets/GCClogo_vertical-12.png)
 
 ## Download genome-compiler desktpop 
@@ -5,7 +6,7 @@
 
 ## Installation guide
 [link] https://github.com/Twistbioscience/genome-compiler/blob/develop/site/Genome%20Compiler%20desktop%20app%20installation%20.pdf
-
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Twistbioscience/genome-compiler/edit/develop/README.md) to maintain and preview the content for your website in Markdown files.
