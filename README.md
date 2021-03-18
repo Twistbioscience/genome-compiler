@@ -1,10 +1,10 @@
-![Image]('https://github.com/Twistbioscience/genome-compiler/blob/develop/site/assets/GCClogo_vertical-12.png')
+![Image] (https://github.com/Twistbioscience/genome-compiler/blob/develop/site/assets/GCClogo_vertical-12.png)
 
 ## Download genome-compiler desktpop 
-[link]https://github.com/Twistbioscience/genome-compiler/blob/develop/site/GenomeCompiler.air
+[link] https://github.com/Twistbioscience/genome-compiler/blob/develop/site/GenomeCompiler.air
 
 ## Installation guide
-[link]https://github.com/Twistbioscience/genome-compiler/blob/develop/site/Genome%20Compiler%20desktop%20app%20installation%20.pdf
+[link] https://github.com/Twistbioscience/genome-compiler/blob/develop/site/Genome%20Compiler%20desktop%20app%20installation%20.pdf
 
 ## Welcome to GitHub Pages
 
