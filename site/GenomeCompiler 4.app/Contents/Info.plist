@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleAllowMixedLocalizations</key>
+        <true/>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>LSMinimumSystemVersion</key>
+        <string>10.6</string>
+        <key>LSRequiresCarbon</key>
+        <true/>
+        <key>CFBundleIdentifier</key>
+        <string>GenomeCompiler</string>
+        <key>CFBundleGetInfoString</key>
+        <string>2.2.88, GCC limited</string>
+        <key>CFBundleShortVersionString</key>
+        <string>2.2.88</string>
+        <key>NSHumanReadableCopyright</key>
+        <string>GCC limited</string>
+        <key>CFBundleExecutable</key>
+        <string>GenomeCompiler</string>
+        <key>NSAppTransportSecurity</key>
+        <dict>
+            <key>NSAllowsArbitraryLoads</key>
+            <true/>
+        </dict>
+        <key>NSHighResolutionCapable</key>
+        <false/>
+        <key>CFBundleIconFile</key>
+        <string>Icon.icns</string>
+        <key>CFBundleDocumentTypes</key>
+        <array>
+            <dict>
+                <key>CFBundleTypeExtensions</key>
+                <array>
+                    <string>gcproj</string>
+                </array>
+                <key>CFBundleTypeMIMETypes</key>
+                <array>
+                    <string>text/plain</string>
+                </array>
+                <key>CFBundleTypeName</key>
+                <string>Genome Compiler Project</string>
+                <key>CFBundleTypeRole</key>
+                <string>Editor</string>
+                <key>CFBundleTypeIconFile</key>
+                <string>DocumentIcon1.icns</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
